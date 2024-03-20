@@ -47,8 +47,8 @@ def create_directories(path_to_directories: list, verbose=True):
         ignore_log (bool, optional): ignore if multiple dirs is to be created. Defaults to False.
     """
     for path in path_to_directories:
-        os.makedirs(path, exist_ok=True)
-        if verbose:
+        os.makedirs(path, exist_ok=True) #The exist_ok=True argument ensures that if the directory already exists, it does not raise an error. it ignores the creation
+        if verbose: #logs a message for each creation if the verbose flag is set
             logger.info(f"created directory at: {path}")
 
 
