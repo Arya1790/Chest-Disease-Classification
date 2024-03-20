@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/2024_ML/ChestDiseaseClassification/Chest-Disease-Classification/mlruns/0/9b0a6cb9394a436a864f2d96de1db90e/artifacts
+end_time: 1710933325231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b0a6cb9394a436a864f2d96de1db90e
+run_name: unique-mole-600
+run_uuid: 9b0a6cb9394a436a864f2d96de1db90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710933288172
+status: 3
+tags: []
+user_id: Arya
