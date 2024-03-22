@@ -22,6 +22,9 @@ export MLFLOW_TRACKING_USERNAME=Arya1790
 
 export MLFLOW_TRACKING_PASSWORD=68475e648f40526b233af1bd9072b5d9857e8c31
 
+## Jenkinsfile
+change the docker-compose url and ubuntu machine id
+
 ## Git commands
 
 ```bash
